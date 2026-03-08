@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "type": "extension",
+      "value": ".pdf",
+      "label": "Temporary"
+    },
+    {
+      "type": "keyword",
+      "value": "2024",
+      "label": "Temporary"
+    },
+    {
+      "type": "keyword",
+      "value": "copy",
+      "label": "Temporary"
+    },
+    {
+      "type": "folder",
+      "value": "dele",
+      "label": "Temporary"
+    },
+    {
+      "type": "keyword",
+      "value": "punjabi",
+      "label": "Temporary"
+    }
+  ]
+}
