@@ -22,6 +22,10 @@ st.set_page_config(page_title="ZeroByte", page_icon="🌱", layout="wide")
 
 st.markdown("### 🌱 ZeroByte - Digital Carbon Manager")
 st.markdown(
+    """
+This dashboard analyzes your local storage to uncover **digital waste**, estimate
+its **carbon footprint**, and highlight **smart cleanup opportunities**.
+"""
 )
 
 
@@ -463,3 +467,4 @@ with col_r:
         st.write(recent_file)
     else:
         st.write("No recent file information available yet.")
+
